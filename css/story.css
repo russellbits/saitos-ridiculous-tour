@@ -168,8 +168,8 @@ blockquote {
 }
 
 blockquote:nth-child(even) {
-  float: right; */
-  text-align: right; */
+  float: right;
+  text-align: right;
 }
 
 blockquote:nth-child(even) p {
